@@ -1,1 +1,0 @@
-Screenshots still required: capture your actual PowerShell code coverage report and branch coverage report, then upload the two PNG files into this folder. The screenshots shown in the chat are local images but the GitHub connector's file API does not support binary image upload. Do not replace these with placeholder text files.
